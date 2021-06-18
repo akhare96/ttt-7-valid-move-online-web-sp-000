@@ -17,5 +17,3 @@ def position_taken?(board, index)
     true
   end
 end
-
-#elsif board[index] == "X" || board[index] == "O"
